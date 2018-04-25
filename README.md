@@ -1,3 +1,3 @@
 # KVODemo
 
-https://github.com/XiaopengWang90/KVODemo/KVODemo.gif
+https://github.com/XiaopengWang90/KVODemo/KVODemo
